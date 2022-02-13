@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  	<!-- Tests cases written using Cucumber-->
+	<test name="Cucumber-TestNG">
+		<classes>
+			<class name="TestRunners.Runner" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
